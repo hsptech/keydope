@@ -1,9 +1,9 @@
 {
   "name": "packThings",
   "authors": [
-    "hsptech <hsptech.bandi@gmail.com>"
+    "hsptech"
   ],
-  "description": "Things to buy when travelling from India to USA",
+  "description": "City Guide",
   "main": "index.html",
   "license": "MIT",
   "homepage": "index.html",
