@@ -1,0 +1,20 @@
+<div class="overview-item">
+	<div class="main-item"  ng-repeat="food in foods">
+		<div class="item-top" style="background-image:url({{food.foodImageUrl}});">
+
+		</div>
+		<div class="item-bottom">
+			<h4>{{food.foodName}}</h4>
+			<div>
+				<h6>{{food.foodShortDesc}}</h6>
+				<div class="item-bottom_footer">
+					<div>{{food.costInd}}</div>
+					<div>{{food.rush}}</div>
+					<div>
+						<button class="btn btn-primary">Directions</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

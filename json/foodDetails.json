@@ -1,0 +1,29 @@
+{
+	"data":[{
+		"foodName":"Bawarchi Biryani",
+		"foodImageUrl":"https://im1.dineout.co.in/images/uploads/restaurant/sharpen/3/q/t/p3044-145745659356df05d14e098.jpg?w=1200",
+		"foodAddress":"RTC Cross Road, Beside Sandhya Theatre, Chikkadpally, New Nallakunta, Hyderabad, Telangana 500020, India",
+		"foodShortDesc":"Best Biryanis's served here",
+		"costInd":"$"
+	},{
+		"foodName":"Ram Ki Bandi Dosa",
+		"foodImageUrl":"https://i0.wp.com/media.hungryforever.com/wp-content/uploads/2015/04/Featured-image-masala-dosa-recipe.jpg?ssl=1?w=1269&strip=all&quality=80",
+		"foodAddress":"ambagh Road, Mozam Jahi Market Circle, Near Karachi Bakery, Hyderabad, Telangana 500012, India",
+		"foodShortDesc":"Wide varietie's of tasty Dosa in the early mornings",
+		"costInd":"$"
+	},{
+		"foodName":"Cream Stone Icecream",
+		"foodImageUrl":"https://image3.mouthshut.com/images/Restaurant/Photo/-64649_114731.jpeg",
+		"foodAddress":"Ground Floor, Beside Talwar Hyundai, Road 2, Banjara Hills, Hyderabad, Telangana 500034, India",
+		"foodShortDesc":"Midnight Icecreams are amazing",
+		"costInd":"$$"
+	},{
+		"foodName":"Gokul Chat",
+		"foodImageUrl":"https://vegeyum.files.wordpress.com/2007/11/071116-1101.jpg?w=1200",
+		"foodAddress":"Koti Main Road, Opp Koti Women's College, Koti, Hyderabad, Telangana 500001, India",
+		"foodShortDesc":"The best chat and kulfi ever",
+		"costInd":"$"
+	}]
+
+
+}
